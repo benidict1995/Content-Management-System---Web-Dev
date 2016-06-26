@@ -1,0 +1,298 @@
+#titlehead{
+	text-shadow:2px 2px black;
+	font-size: 25px;
+	font-family: "Bernard MT Condensed";
+}
+
+#category_list
+{
+	border: 2px transparent;
+	width: 130px;
+	left: -430px ;
+	height: 250px;
+	top: 60px;
+	position: relative;	
+	margin: auto;
+}
+
+#adreply
+{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	width: 800px;
+	resize:none;
+	height: 300px;
+	top: -100px;
+	left: 80px;
+}
+
+
+#coverphoto
+{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	width: 800px;
+	height: 250px;
+	top: -480px;
+	left: 80px;
+}
+
+#uploadbox
+{
+	border:2px transparent;
+	width: 350px;
+	height: 80px;
+	position: relative;
+	margin: auto;
+	top: -479px;
+	left: -145px;
+}
+
+#coverphotoadmin
+{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	width: 800px;
+	height: 250px;
+	top: -190px;
+	left: 80px;
+}
+
+#uploadboxadmin
+{
+	border:2px transparent;
+	width: 350px;
+	height: 80px;
+	position: relative;
+	margin: auto;
+	top: -189px;
+	left: -145px;
+}
+
+#coverphotoindex{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	width: 800px;
+	height: 250px;
+	top: 60px;
+	left: 6px;
+}
+
+#productlist{
+	border: 2px transparent;
+	width: 980px;
+	left: -4px ;
+	height: 250px;
+	top: 180px;
+	position: relative;	
+	margin: auto;
+}
+
+#contentupload{
+border: transparent;
+	width: 980px;
+	left: -4px ;
+	height: 150px;
+	top: -100px;
+	position: relative;	
+	margin: auto;
+}
+
+#orderlist{
+	border: 2px transparent;
+	width: 980px;
+	left: -4px ;
+	height: 250px;
+	top: -150px;
+	position: relative;	
+	margin: auto;
+}
+
+
+
+#orderlistuser{
+	border: 2px transparent;
+	width: 980px;
+	left: -4px ;
+	height: 250px;
+	top: -150px;
+	position: relative;	
+	margin: auto;
+}
+
+#userproductlist{
+	border: 2px transparent;
+	width: 980px;
+	left: -4px ;
+	height: 250px;
+	top: -90px;
+	position: relative;	
+	margin: auto;
+}
+
+
+#userorderlist{
+	border: 2px transparent;
+	width: 980px;
+	left: -4px ;
+	height: 250px;
+	top: -80px;
+	position: relative;	
+	margin: auto;
+}
+
+#menutitle{
+	font-weight: bold;
+}
+
+#bold{
+	font-weight: bold;
+}
+
+
+#filterproduct{
+	border: transparent;
+	position: relative;
+	width: 400px;
+	margin: auto;
+	top: 190px;
+	left: -300px;
+
+}
+
+#userfilterproduct{
+	border: transparent;
+	position: relative;
+	width: 400px;
+	margin: auto;
+	top: -80px;
+	left: -300px;
+
+}
+
+#filteruser{
+	border: transparent;
+	position: relative;
+	width: 400px;
+	margin: auto;
+	top: -140px;
+	left: -300px;
+
+}
+
+#all{
+	border: transparent;
+	position: relative;
+	width: 40px;
+	margin: auto;
+	top: 111px;
+	left: 0px;
+}
+
+#covergirls{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	width: 325px;
+	height: 440px;
+	top: -370px;
+	left: 25px;
+}
+
+#coverboys{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	width: 325px;
+	height: 440px;
+	top: 70px;
+	left: -310px;
+}
+
+#coverpadala{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	height: 220px;
+	width: 300px;
+	left: 340px; 
+	top: -810px;
+}	
+
+#covershoes{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	height: 220px;
+	width: 300px;
+	left: 340px; 
+	top: -805px;
+}
+
+#coveritem{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	height: 320px;
+	width: 400px;
+	left: -230px; 
+	top: -750px;
+}
+
+#covercap{
+	border: transparent;
+	position: relative;
+	margin: auto;
+	height: 320px;
+	width: 400px;
+	left: 220px; 
+	top: -1070px;
+}
+
+#uploadpadala{
+	border:2px transparent;
+	width: 350px;
+	height: 80px;
+	position: relative;
+	margin: auto;
+}
+
+#footer{
+	top: 50px;
+	margin: auto;
+	position: relative;
+}
+
+#footerindex{
+	top: -1000px;
+	margin: auto;
+	position: relative;
+}
+
+#footeruser{
+	top: 1060px;
+	margin: auto;
+	position: relative;
+}
+
+#holdall{
+	position: relative;
+	margin: auto;
+	border: transparent;
+	height: 1000px;
+	width: 1000px;
+	top: 50px;
+}
+
+#holdon{
+	position: relative;
+	margin: auto;
+	border: transparent;
+	height: 50px;
+	width: 1000px;
+	top: 500px;
+}
